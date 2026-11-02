@@ -1,0 +1,14 @@
+.env
+.DS_Store
+.idea/*
+.vscode
+.venv
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+*$py.class
+migrations/__pycache__/
+migrations/versions/__pycache__/
+instance/
+*.db
